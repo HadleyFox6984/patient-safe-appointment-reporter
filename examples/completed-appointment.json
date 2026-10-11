@@ -1,0 +1,7 @@
+{
+  "appointment_id": "apt_2048",
+  "patient_email": "patient@example.com",
+  "occurred_at": "2026-09-18T09:30:00Z",
+  "status": "completed"
+}
+
